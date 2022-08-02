@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "src",
+        "sourceMap": true
+    },
+    "extends": "@tsconfig/node16/tsconfig.json"
+}
