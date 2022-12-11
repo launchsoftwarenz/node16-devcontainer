@@ -1,7 +1,7 @@
-import { greet } from './Greeter';
+import { greet } from "./Greeter";
 
-function main (): void {
+function main(): void {
   greet((message) => console.log(message));
 }
 
-main()
+main();
